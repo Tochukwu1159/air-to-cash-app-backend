@@ -1,0 +1,5 @@
+- Sort email is required problem - sorted?
+- hash otp in database
+- Send admin the created username and password
+
+
